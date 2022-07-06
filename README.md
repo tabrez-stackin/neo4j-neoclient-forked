@@ -1,6 +1,6 @@
 # NeoClient
 
-# This repository has moved
+# This repository has been moved
 
 Neoxygen's NeoClient has been moved to https://github.com/graphaware/neo4j-php-client
 
